@@ -502,7 +502,7 @@ Algoritmos mais eficientes são mais rápidos e têm uma pegada de carbono consi
 Isso mostra que a escolha do algoritmo correto, considerando sua eficiência (complexidade de tempo), tem um impacto direto e proporcional tanto na performance (rapidez) quanto no consumo de recursos computacionais (e, consequentemente, nas emissões de CO₂). Para problemas do mundo real com grandes conjuntos de dados (grafos), algoritmos otimizados como o Dijkstra com Min-Heap são essenciais não apenas pela velocidade, mas também por serem mais "sustentáveis" computacionalmente.</p>  
 
 
-## 9. Conteúdo Adicional
+## Conteúdo Adicional
 
 Link do Google Colab: https://colab.research.google.com/drive/14HANkKVl0tzKlMecL7OI-mWJqF6U53Rm?usp=sharing
 
