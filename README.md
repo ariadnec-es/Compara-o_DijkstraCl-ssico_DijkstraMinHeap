@@ -2,7 +2,7 @@
 **DCA3702 – Algoritmos e Estruturas de Dados II**
 
 <p align="center">
-  <img src="capadotrabalho1.jpg" alt="Capa"><br>
+  <img src="capa1.jpg" alt="Capa"><br>
 </p>
 
 # Projeto 2: Comparação de Performance: Dijkstra Clássico vs Dijkstra com Min-Heap
