@@ -455,7 +455,7 @@ Total de registros de execução: 1414
 **Visualização: Comparação de Tempo Médio de Execução por Tamanho do Grafo**
 
 <p align="center">
-  <img src="./imagem/plotum.png" alt="Comparação de Tempo Médio de Execução por Tamanho do Grafo"><br>
+  <img src="./Imagem/plotum.png" alt="Comparação de Tempo Médio de Execução por Tamanho do Grafo"><br>
 </p>
 <p align="center">
   O gráfico mostra quanto tempo cada "solucionador" (algoritmo) leva para resolver o problema conforme ele fica maior.
@@ -480,7 +480,7 @@ A escala do gráfico ("logarítmica") ajuda a gente a ver essa diferença enorme
 **Visualização: Gráfico de Emissões Médias de CO₂ vs. Tamanho do Grafo**
 
 <p align="center">
-  <img src="./imagem/plotdois.png" alt="Gráfico de Emissões Médias de CO₂ vs. Tamanho do Grafo"><br>
+  <img src="./Imagem/plotdois.png" alt="Gráfico de Emissões Médias de CO₂ vs. Tamanho do Grafo"><br>
 </p>
 
 
