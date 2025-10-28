@@ -455,9 +455,12 @@ Total de registros de execução: 1414
 **Visualização: Comparação de Tempo Médio de Execução por Tamanho do Grafo**
 
 <p align="center">
-  <img src="./Imagem/plotum.png" alt="Comparação de Tempo Médio de Execução por Tamanho do Grafo"><br>
+  <img src="./imagem/plotum.png" alt="Comparação de Tempo Médio de Execução por Tamanho do Grafo"><br>
 </p>
 <p align="center">
+
+**OBS:** Toda vez que a imagem é inserida nesse repositório a imagem corrompe. Caso queira ver como ficou acesse o Link do Colab em Conteúdos Adicionais
+  
   O gráfico mostra quanto tempo cada "solucionador" (algoritmo) leva para resolver o problema conforme ele fica maior.
 
  * Dijkstra Clássico: É método menos eficiente. No gráfico, a linha dele sobe muito rápido. Isso significa que, quando o grafo fica só um pouco maior, o tempo que ele leva para terminar "explode" (aumenta muito, muito rápido). É por isso que ele não conseguiu rodar para o grafo gigante de 100.000 nós.
@@ -480,8 +483,10 @@ A escala do gráfico ("logarítmica") ajuda a gente a ver essa diferença enorme
 **Visualização: Gráfico de Emissões Médias de CO₂ vs. Tamanho do Grafo**
 
 <p align="center">
-  <img src="./Imagem/plotdois.png" alt="Gráfico de Emissões Médias de CO₂ vs. Tamanho do Grafo"><br>
+  <img src="./imagem/plotdois.png" alt="Gráfico de Emissões Médias de CO₂ vs. Tamanho do Grafo"><br>
 </p>
+
+**OBS:** Toda vez que a imagem é inserida nesse repositório a imagem corrompe. Caso queira ver como ficou acesse o Link do Colab em Conteúdos Adicionais
 
 
 <p align = "justify">
