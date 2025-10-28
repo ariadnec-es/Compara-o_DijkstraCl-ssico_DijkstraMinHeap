@@ -1,6 +1,10 @@
 **O projeto foi desenvolvido por Ariadne Evangelista e Arthur Queiroz**  
 **DCA3702 – Algoritmos e Estruturas de Dados II**
 
+<p align="center">
+  <img src="capadotrabalho1.jpg" alt="Comparação de Tempo Médio de Execução por Tamanho do Grafo"><br>
+</p>
+
 # Projeto 2: Comparação de Performance: Dijkstra Clássico vs Dijkstra com Min-Heap
 
 ---
@@ -505,6 +509,7 @@ Isso mostra que a escolha do algoritmo correto, considerando sua eficiência (co
 ## Conteúdo Adicional
 
 Link do Google Colab: https://colab.research.google.com/drive/14HANkKVl0tzKlMecL7OI-mWJqF6U53Rm?usp=sharing
+Link do Vídeo: https://youtu.be/hLrdFNs2glM
 
 
 
